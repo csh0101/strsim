@@ -1,7 +1,7 @@
 package strsim
 
 import (
-	"github.com/antlabs/strsim/similarity"
+	"github.com/csh0101/strsim/similarity"
 )
 
 // ngram 是筛子系数需要用的一个值
