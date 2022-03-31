@@ -1,6 +1,6 @@
 package strsim
 
-import "github.com/antlabs/strsim/similarity"
+import "github.com/csh0101/strsim/similarity"
 
 // 比较两个字符串内部函数
 func compare(s1, s2 string, o *option) float64 {

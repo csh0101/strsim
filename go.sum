@@ -1,3 +1,5 @@
+github.com/antlabs/strsim v0.0.2 h1:R4qjokEegYTrw+fkcYj3/UndG9Cn136fH+fpw9TIz9k=
+github.com/antlabs/strsim v0.0.2/go.mod h1:95XAAF2dJK9IiZMc0Ue6H9t477/i6fvYoMoeey8sEnc=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
